@@ -1,2 +1,4 @@
-p:selection{font-size: 150px ; background: green}
-p{color: green}
+h1,h2{text-align: center;}
+body {background: rgba(47, 209, 7 , 0.6) ; margin: 10px 15px 30px 40px;}
+.alfa {padding: 0px 0px 0px 30px; font-size: 1.6em ; font-family: serif ; font-style: oblique; font-weight: 600; font-variant:inherit; font-stretch: ultra-expanded }
+p {font-size : 1.5em; font-stretch: condensed ; font-family: monospace;}
