@@ -1,4 +1,7 @@
-h1,h2{text-align: center;}
-body {background: rgba(47, 209, 7 , 0.6) ; margin: 10px 15px 30px 40px;}
+
+h1,h2{text-align: center; color:yellow ; border:5px double rgb(255, 0, 0) ; margin-top: 40px; padding:15px ; border-radius: 150px; background: rgba(0, 0, 0, 0.872)}
+body {background: rgba(47, 209, 7 , 0.6) ; max-width: 1500px; min-width: 1200px; margin:auto}
 .alfa {padding: 0px 0px 0px 30px; font-size: 1.6em ; font-family: serif ; font-style: oblique; font-weight: 600; font-variant:inherit; font-stretch: ultra-expanded }
-p {font-size : 1.5em; font-stretch: condensed ; font-family: monospace;}
+p {font-size : 1.8em; font-stretch: condensed ; font-family: "Dancing Script" ; font-style: italic;}
+.date1 {margin: 15px; border: 3px inset rgba(228, 7, 228, 0.911) ; padding: 1px;}
+.date2 {margin: 15px; border: 3px inset rgba(228, 7, 228, 0.911) ; padding: 1px; min-width: 1620px; ;}
