@@ -1,7 +1,55 @@
+h1, h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: yellow;
+    border: 5px double rgb(255, 0, 0);
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 150px;
+    background: rgba(0, 0, 0, 0.872)
+}
 
-h1,h2{text-align: center; color:yellow ; border:5px double rgb(255, 0, 0) ; margin-top: 40px; padding:15px ; border-radius: 150px; background: rgba(0, 0, 0, 0.872)}
-body {background: rgba(47, 209, 7 , 0.6) ; max-width: 1500px; min-width: 1200px; margin:auto}
-.alfa {padding: 0px 0px 0px 30px; font-size: 1.6em ; font-family: serif ; font-style: oblique; font-weight: 600; font-variant:inherit; font-stretch: ultra-expanded }
-p {font-size : 1.8em; font-stretch: condensed ; font-family: "Dancing Script" ; font-style: italic;}
-.date1 {margin: 15px; border: 3px inset rgba(228, 7, 228, 0.911) ; padding: 1px;}
-.date2 {margin: 15px; border: 3px inset rgba(228, 7, 228, 0.911) ; padding: 1px; min-width: 1620px; ;}
+body {
+    background: rgba(47, 209, 7, 0.6);
+    max-width: 1500px;
+    min-width: 1200px;
+    margin: auto;
+    
+}
+
+.alfa {
+    padding: 0px 0px 0px 30px;
+    font-size: 1.6em;
+    font-family: serif;
+    font-style: oblique;
+    font-weight: 600;
+    font-variant: inherit;
+    font-stretch: ultra-expanded
+}
+
+p {
+    list-style: lower-greek;
+    text-align: justify;
+    text-decoration: solid;
+    font-size: 1.8em;
+    font-stretch: condensed;
+    font-family: "Dancing Script";
+    font-style: italic;
+    word-spacing: 2px;
+    border-spacing: 5px;
+    line-height: 30px;
+    text-indent: 35px;
+}
+
+.date1, .date2 {
+    font-size: 26px;
+    margin: 15px;
+    border: 3px inset rgba(228, 7, 228, 0.911);
+    padding: 1px;
+    list-style-type: lower-greek;
+   
+}
+
+h1 {
+    text-shadow: 20px -2px 11px 6 rgb(27, 10, 180)
+}
